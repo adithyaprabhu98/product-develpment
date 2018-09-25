@@ -2,7 +2,7 @@
 
 String a,xval,yval;
 int x1=730,y1=730;
-Servo uservo;  // create servo object to control a servo
+Servo uservo; 
 Servo dservo;
 double l = 730,x,y,r,th,phi,uval,dval;
 void setup() {
